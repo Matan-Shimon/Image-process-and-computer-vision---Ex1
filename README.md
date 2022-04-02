@@ -2,7 +2,7 @@
 
 **ID** - 314669342
 
-**Python version** - 3.9
+**Python version** - 3.8.8
 
 **Platform** - PyCharm
 ### Submitted files
